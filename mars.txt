@@ -1,4 +1,8 @@
 Cold and dry, but everything is my favourite colour.
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 A new sentence.
+=======
+I'm red
+>>>>>>> 3e2cd143d0d403c9a8b88481bad2c2db908830c7
